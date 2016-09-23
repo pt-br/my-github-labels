@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Bug",
+    "color": "b60205"
+  },
+  {
+    "name": "Docs",
+    "color": "000000"
+  },
+  {
+    "name": "Done",
+    "color": "0e8a16"
+  },
+  {
+    "name": "Fixed",
+    "color": "0e8a16"
+  },
+  {
+    "name": "In Progress",
+    "color": "fbca04"
+  },
+  {
+    "name": "INFO",
+    "color": "E61BB7"
+  },
+  {
+    "name": "New Feature",
+    "color": "5319e7"
+  },
+  {
+    "name": "On Hold",
+    "color": "d93f0b"
+  },
+  {
+    "name": "Ready to Start",
+    "color": "1d76db"
+  },
+  {
+    "name": "Testing",
+    "color": "fbca04"
+  },
+  {
+    "name": "TODO",
+    "color": "134471"
+  },
+  {
+    "name": "UX/UI",
+    "color": "07B7CC"
+  },
+  {
+    "name": "Wontfix",
+    "color": "0e8a16"
+  }
+]
