@@ -134,6 +134,9 @@ http://5.79.68.138:8081/look/megapix/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central [Brazil]" tvg-logo="http://s20.postimg.org/jhgria3yh/Comedy_Central.png" group-title="Filmes e Séries",Comedy Central
 
+#EXTINF:-1 tvg-id="Comedy Central.igor" tvg-logo="Comedy-Central.png" tvg-logo="http://goo.gl/7GDv0O" group-title="Seriados",Comedy Central 2
+rtmp://live.livestreamcast.org/live/comedy913/comedy913 playpath=comedy913 swfUrl=http://www.livestreamcast.org/StrobeMediaPlayback.swf&Grupo_UP_e_DOWN live=1 pageUrl=http://www.livestreamcast.org/player/embed_t2.php?&c=comedy913&vw=468&vh=380
+
 #EXTINF:-1 tvg-id="TCM - Turner Classic Movies [Brazil]" tvg-logo="http://s27.postimg.org/ak3hno8eb/TCM.png" group-title="Filmes e Séries",TCM
 
 #EXTINF:-1 tvg-id="SyFy [Brazil]" tvg-logo="http://s20.postimg.org/j755s3te1/Sy_Fy.png" group-title="Filmes e Séries",Syfy
