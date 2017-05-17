@@ -28,67 +28,6 @@ http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/65vfkdnzh/TVE.png" group-title="TV Aberta",TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-################################################################################ Esportes
-
-#EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes
-http://95.211.149.215:8081/look/pfc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 3
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 5
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 6
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 7
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 9
-
-#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="Esportes",ESPN Brasil
-
-#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-logo="http://s20.postimg.org/uwr0s4kgd/ESPN.png" group-title="Esportes",ESPN
-
-#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-logo="http://s20.postimg.org/78biwunwt/ESPN.png" group-title="Esportes",ESPN+
-
-#EXTINF:-1 tvg-id="Esporte Interativo [Brazil]" tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="Esportes",Esporte Interativo HD
-
-#EXTINF:-1 tvg-id="EI Maxx [Brazil]" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Esportes",EI Max HD
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream/580126d58e928419094b5527/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
-
-#EXTINF:-1 tvg-id="EI Maxx 2 [Brazil]" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="Esportes",EI Max 2 HD
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream/581217ec07abdae708928111/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/vxo3d63d9/nba.jpg" group-title="Esportes",NBA HD
-http://85.7.107.8:8011/play/a02t
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/8cnb5xorh/Sport_TV1_HD.png" group-title="Esportes",Sport TV HD
-http://85.7.107.8:8011/play/a016
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/nzekjb2jh/qpyrpq1470407606.png" group-title="Esportes",Sport TV 2 HD
-http://178.193.237.115:9000/play/a08o
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/q58vdt5zx/Sport_TV3_HD_300x169.png" group-title="Esportes",Sport TV 3 HD
-http://178.193.237.115:9000/play/a08b
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/3ul0du8pp/qypxry1470408244.png" group-title="Esportes",Sport TV 4 HD
-http://85.7.107.8:8011/play/a011
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s4.postimg.org/u5e059jfx/logo_sport_tv_8.png" group-title="Esportes",Sport TV 5 HD
-
-#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="http://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate
-http://95.211.149.215:8081/look/combate/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="Esportes",Fox Sports HD
-http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png" group-title="Esportes",Fox Sports 2 HD
-http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
-
 ################################################################################# Infantil
 
 #EXTINF:-1 tvg-id="TV Rá-tim-bum [Brazil]" tvg-logo="http://s20.postimg.org/z5uvxhcx9/TV_Ra_tim_bum.png" group-title="Infantil",TV Rá-Tim-Bum
@@ -223,6 +162,34 @@ http://5.79.68.138:8081/look/globonews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Band News [Brazil]" tvg-logo="http://s20.postimg.org/im298ctyl/Band_News.png" group-title="Notícias",Band News
 
+################################################################################# Variedade e Músicas
+
+#EXTINF:-1 tvg-id="Canal GNT [Brazil]" tvg-logo="http://s20.postimg.org/uvkcw9ga5/gnt.png" group-title="Variedade e Músicas",GNT
+
+#EXTINF:-1 tvg-id="Multishow [Brazil]" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="Variedade e Músicas",Multishow
+
+#EXTINF:-1 tvg-id="MTV Brasil [Brazil]" tvg-logo="http://s20.postimg.org/uyanjxuh5/MTV.png" group-title="Variedade e Músicas",MTV
+
+#EXTINF:-1 tvg-id="VH1 HD [Brazil]" tvg-logo="http://s11.postimg.org/t6l8d9k0j/VH1.png" group-title="Variedade e Músicas",VH1 HD
+http://178.193.237.115:9000/play/a01a
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s17.postimg.org/ncx3myrtr/MTV_Hits_2013.png" group-title="Variedade e Músicas",MTV Hits HD
+http://89.38.8.131:39493/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s17.postimg.org/u23n2zd5r/MTV_Dance_2013.png" group-title="Variedade e Músicas",MTV Dance HD
+http://89.38.8.131:39494/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s17.postimg.org/6mlpxmten/Mtv_Rocks_2013.png" group-title="Variedade e Músicas",MTV Rocks HD
+http://89.38.8.131:39495/
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/c8pzk1iul/RBX_TV.png" group-title="Variedade e Músicas",RBX TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s9.postimg.org/y5ck7il67/icon_0_0.png" group-title="Variedade e Músicas",MCM POP HD
+http://178.193.237.115:9000/play/a07a
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s21.postimg.org/fb4mtuf3b/cmusic_hd.png" group-title="Variedade e Músicas",C-Music HD
+http://178.193.237.115:9000/play/a08k
+
 ################################################################################# Documentários
 
 #EXTINF:-1 tvg-id="Lifetime [Brazil]" tvg-logo="http://s20.postimg.org/y64l1rxrh/Lifetime.png" group-title="Documentários",Lifetime
@@ -270,30 +237,63 @@ http://178.193.237.115:9000/play/a06r
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s24.postimg.org/5kqkuwbth/hd_showcase_White_Bkg_lrg.png" group-title="Documentários",Discovery Showcase
 
-################################################################################# Variedade e Músicas
+################################################################################ Esportes
 
-#EXTINF:-1 tvg-id="Canal GNT [Brazil]" tvg-logo="http://s20.postimg.org/uvkcw9ga5/gnt.png" group-title="Variedade e Músicas",GNT
+#EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes
+http://95.211.149.215:8081/look/pfc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Multishow [Brazil]" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="Variedade e Músicas",Multishow
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2
 
-#EXTINF:-1 tvg-id="MTV Brasil [Brazil]" tvg-logo="http://s20.postimg.org/uyanjxuh5/MTV.png" group-title="Variedade e Músicas",MTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 3
 
-#EXTINF:-1 tvg-id="VH1 HD [Brazil]" tvg-logo="http://s11.postimg.org/t6l8d9k0j/VH1.png" group-title="Variedade e Músicas",VH1 HD
-http://178.193.237.115:9000/play/a01a
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s17.postimg.org/ncx3myrtr/MTV_Hits_2013.png" group-title="Variedade e Músicas",MTV Hits HD
-http://89.38.8.131:39493/
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 5
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s17.postimg.org/u23n2zd5r/MTV_Dance_2013.png" group-title="Variedade e Músicas",MTV Dance HD
-http://89.38.8.131:39494/
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 6
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s17.postimg.org/6mlpxmten/Mtv_Rocks_2013.png" group-title="Variedade e Músicas",MTV Rocks HD
-http://89.38.8.131:39495/
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 7
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/c8pzk1iul/RBX_TV.png" group-title="Variedade e Músicas",RBX TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s9.postimg.org/y5ck7il67/icon_0_0.png" group-title="Variedade e Músicas",MCM POP HD
-http://178.193.237.115:9000/play/a07a
+#EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 9
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s21.postimg.org/fb4mtuf3b/cmusic_hd.png" group-title="Variedade e Músicas",C-Music HD
-http://178.193.237.115:9000/play/a08k
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="Esportes",ESPN Brasil
+
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-logo="http://s20.postimg.org/uwr0s4kgd/ESPN.png" group-title="Esportes",ESPN
+
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-logo="http://s20.postimg.org/78biwunwt/ESPN.png" group-title="Esportes",ESPN+
+
+#EXTINF:-1 tvg-id="Esporte Interativo [Brazil]" tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="Esportes",Esporte Interativo HD
+
+#EXTINF:-1 tvg-id="EI Maxx [Brazil]" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Esportes",EI Max HD
+http://vrzn-ei-ee.cdn.mdstrm.com/live-stream/580126d58e928419094b5527/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="EI Maxx 2 [Brazil]" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="Esportes",EI Max 2 HD
+http://vrzn-ei-ee.cdn.mdstrm.com/live-stream/581217ec07abdae708928111/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/vxo3d63d9/nba.jpg" group-title="Esportes",NBA HD
+http://85.7.107.8:8011/play/a02t
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/8cnb5xorh/Sport_TV1_HD.png" group-title="Esportes",Sport TV HD
+http://85.7.107.8:8011/play/a016
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/nzekjb2jh/qpyrpq1470407606.png" group-title="Esportes",Sport TV 2 HD
+http://178.193.237.115:9000/play/a08o
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/q58vdt5zx/Sport_TV3_HD_300x169.png" group-title="Esportes",Sport TV 3 HD
+http://178.193.237.115:9000/play/a08b
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/3ul0du8pp/qypxry1470408244.png" group-title="Esportes",Sport TV 4 HD
+http://85.7.107.8:8011/play/a011
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s4.postimg.org/u5e059jfx/logo_sport_tv_8.png" group-title="Esportes",Sport TV 5 HD
+
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="http://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate
+http://95.211.149.215:8081/look/combate/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="Esportes",Fox Sports HD
+http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png" group-title="Esportes",Fox Sports 2 HD
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
